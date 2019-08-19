@@ -1,3 +1,4 @@
+este archivo se está editando en la rama test
 Gundam Freedom ZGMF-X10A
 
 One of ZAFT's ZGMF-X series of Gundam units build in CE 71 using technology
