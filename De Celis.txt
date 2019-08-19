@@ -1,3 +1,7 @@
 https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2019/08/18/dejar-morir-a-sus-animales-o-liberarlos-crianceros-y-su-decision-mas-dificil-por-sequia-en-chile.shtml
 
+<<<<<<< HEAD
 Jola gente
+=======
+este archivo se está editando en la rama test
+>>>>>>> Test
