@@ -1,0 +1,10 @@
+Trabajos efectuados para el primer sprint
+primer semana:
+Realizar cambios a los diagramas y dejar todo listo para entrega
+segunda semana
+estudiar sobre Vue y Vuetify
+tercer semana:
+Arreglos datos ppt y adelantando todo para la semana del
+18 para poder quedar libre
+cuarta semana:
+semana del 18 a la cual ya debemos tener todo	
